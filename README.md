@@ -1,0 +1,2 @@
+# Pygame-Hangman
+I made this pygame version of hangman as a small part of my computing coursework, the code is definitely longer than it should be, but I did not have any time to shorten it during coding. Now that I have time, I want to seek to shorten it, make it better if possible and get people's opinions on it and the code itself. I also think it is quite interesting to see and have since I have not seen a pygame hangman like this online anywhere which was actually quite surprising! Please let me know your thoughts! 
